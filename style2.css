@@ -1,0 +1,80 @@
+.container {
+    display: grid;
+    grid-template-rows: 280px 100px;
+    width: 300px;
+    border: 1px solid maroon;
+    background: black;
+    margin-left: 525px;
+    margin-top: 100px;
+    border-radius: 50px;      
+    box-shadow: 0 0 2px 2px gray;      
+}
+.foto {
+    margin-top: 28px;
+    margin-left: 20px;
+}
+img {
+    border-radius: 10px;
+}
+.kata {
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: -70px;
+    font-style: oblique;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.kata2 {
+    color: white;
+    width: 80px;
+    margin-top: -45px;
+    margin-left: 20px;
+}
+.kata3 {
+    background: gray;
+    color: black;
+    margin-top: -20px;
+    width: 70px;
+    height: 15px;
+    font-size: 13px;
+    text-align: center;
+    margin-left: 110px;
+    border-radius: 100px;
+}
+.kata4 {
+    writing-mode: vertical-lr;
+    color: white;
+    margin-top: -340px; 
+    margin-left: 255px;
+}
+.play {
+    background-color: maroon;
+    text-align: center;
+    width: 100px;
+    height: 35px;
+    margin-left: 178px;
+    margin-top: -65px;
+    border-radius: 10px;
+}
+p {
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 13px;
+    margin-left: 3px;
+}
+#pj{
+    width: 230px;
+    height: 30px;
+    margin-left: 20px;
+    margin-right: px;
+    margin-top: -15px;
+}
+.kata3:hover{
+    color: white;
+    background: gray;
+}
+.play:hover{
+    background: gray;
+}
